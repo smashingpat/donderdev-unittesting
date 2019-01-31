@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`createTodo should create a todo 1`] = `
+Object {
+  "id": 10000000,
+  "status": true,
+  "text": "",
+}
+`;
